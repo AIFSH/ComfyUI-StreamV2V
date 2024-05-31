@@ -28,7 +28,7 @@ pip install accelerate
 weights will be downloaded from huggingface automaticly!
 
 ## Tutorial
-- [Demo]()
+- [Demo](https://www.bilibili.com/video/BV12m42157Us)
 
 ## WeChat Group && Donate
 <div>
