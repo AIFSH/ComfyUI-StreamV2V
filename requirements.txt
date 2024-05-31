@@ -1,0 +1,13 @@
+einops
+av
+peft
+pydub
+moviepy
+diffusers==0.27.0
+fire
+omegaconf
+cuda-python
+onnxruntime-gpu
+protobuf==3.20.2
+colored
+pywin32;sys_platform == 'win32'
